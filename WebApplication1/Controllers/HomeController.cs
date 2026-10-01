@@ -16,6 +16,17 @@ public class HomeController : Controller
         return View();
     }
 
+    public IActionResult TeemerProfile()
+    {
+        TeemerInfo myInfo = new TeemerInfo();
+
+        myInfo.Name = "Tyrone Louis V. Teemer";
+        myInfo.Age = 19;
+        myInfo.Program = "Conputer Science";
+        myInfo.School = "Polytechnic University of the Philippines";
+        return View(myInfo);
+    }
+
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
     {

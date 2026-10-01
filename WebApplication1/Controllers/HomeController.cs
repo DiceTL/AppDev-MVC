@@ -15,6 +15,17 @@ public class HomeController : Controller
     {
         return View();
     }
+    public IActionResult Yancy()
+    {
+
+        YancyInfo data = new YancyInfo();
+
+        data.Name = "Yancy";
+        data.Age = 17;
+        data.Program = "BSIT";
+        data.School = "DLSU";
+        return View(data);
+    }
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()

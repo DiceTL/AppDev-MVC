@@ -1,3 +1,4 @@
+using System.Data;
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using WebApplication1.Models;
@@ -15,6 +16,21 @@ public class HomeController : Controller
     {
         return View();
     }
+
+    public IActionResult Jimuelle()
+    {
+        JimInfo data = new JimInfo();
+
+
+        data.FullName = "Jimuelle Patron";
+        data.Age = 00;
+        data.Program = "Computer Science";
+        data.School = "Polytechnic University of the Philippines";
+
+
+        return View(data);
+    }
+
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()

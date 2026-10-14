@@ -1,0 +1,18 @@
+.main[b-ur1mc32ldu] {
+  display: flex;
+  background-color: red;
+  height: 100%;
+  width: 100%;
+}
+
+.leftContainer[b-ur1mc32ldu] {
+  background-color: blue;
+  height: 100%;
+  width: 100%;
+}
+
+.rightContainer[b-ur1mc32ldu] {
+  background-color: bisque;
+  height: 100%;
+  width: 100%;
+}

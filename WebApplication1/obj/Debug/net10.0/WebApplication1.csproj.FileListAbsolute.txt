@@ -22,7 +22,6 @@
 /home/tyrone-teemer/Desktop/github_projects/AppDev-MVC/WebApplication1/obj/Debug/net10.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /home/tyrone-teemer/Desktop/github_projects/AppDev-MVC/WebApplication1/obj/Debug/net10.0/scopedcss/bundle/WebApplication1.styles.css
 /home/tyrone-teemer/Desktop/github_projects/AppDev-MVC/WebApplication1/obj/Debug/net10.0/scopedcss/projectbundle/WebApplication1.bundle.scp.css
-/home/tyrone-teemer/Desktop/github_projects/AppDev-MVC/WebApplication1/obj/Debug/net10.0/compressed/556miamfr6-{0}-lugek5hnai-lugek5hnai.gz
 /home/tyrone-teemer/Desktop/github_projects/AppDev-MVC/WebApplication1/obj/Debug/net10.0/compressed/u3m5yo2x8f-{0}-61n19gt1b8-61n19gt1b8.gz
 /home/tyrone-teemer/Desktop/github_projects/AppDev-MVC/WebApplication1/obj/Debug/net10.0/compressed/w3u7ibosd4-{0}-fr7q2aak1r-fr7q2aak1r.gz
 /home/tyrone-teemer/Desktop/github_projects/AppDev-MVC/WebApplication1/obj/Debug/net10.0/compressed/8yqr3kw3fy-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -84,8 +83,6 @@
 /home/tyrone-teemer/Desktop/github_projects/AppDev-MVC/WebApplication1/obj/Debug/net10.0/compressed/68ngs9jdbw-{0}-muycvpuwrr-muycvpuwrr.gz
 /home/tyrone-teemer/Desktop/github_projects/AppDev-MVC/WebApplication1/obj/Debug/net10.0/compressed/sl8apya4kg-{0}-87fc7y1x7t-87fc7y1x7t.gz
 /home/tyrone-teemer/Desktop/github_projects/AppDev-MVC/WebApplication1/obj/Debug/net10.0/compressed/sld2hx1tei-{0}-jfsiqqwiad-jfsiqqwiad.gz
-/home/tyrone-teemer/Desktop/github_projects/AppDev-MVC/WebApplication1/obj/Debug/net10.0/compressed/jnw8xw3sck-{0}-e5bbkp9d3y-e5bbkp9d3y.gz
-/home/tyrone-teemer/Desktop/github_projects/AppDev-MVC/WebApplication1/obj/Debug/net10.0/compressed/pwghj04u8c-{0}-e5bbkp9d3y-e5bbkp9d3y.gz
 /home/tyrone-teemer/Desktop/github_projects/AppDev-MVC/WebApplication1/obj/Debug/net10.0/staticwebassets.build.json
 /home/tyrone-teemer/Desktop/github_projects/AppDev-MVC/WebApplication1/obj/Debug/net10.0/staticwebassets.build.json.cache
 /home/tyrone-teemer/Desktop/github_projects/AppDev-MVC/WebApplication1/obj/Debug/net10.0/staticwebassets.development.json
@@ -96,3 +93,7 @@
 /home/tyrone-teemer/Desktop/github_projects/AppDev-MVC/WebApplication1/obj/Debug/net10.0/WebApplication1.pdb
 /home/tyrone-teemer/Desktop/github_projects/AppDev-MVC/WebApplication1/obj/Debug/net10.0/WebApplication1.genruntimeconfig.cache
 /home/tyrone-teemer/Desktop/github_projects/AppDev-MVC/WebApplication1/obj/Debug/net10.0/ref/WebApplication1.dll
+/home/tyrone-teemer/Desktop/github_projects/AppDev-MVC/WebApplication1/obj/Debug/net10.0/compressed/556miamfr6-{0}-lugek5hnai-lugek5hnai.gz
+/home/tyrone-teemer/Desktop/github_projects/AppDev-MVC/WebApplication1/obj/Debug/net10.0/scopedcss/Views/Home/TeemerProfile.cshtml.rz.scp.css
+/home/tyrone-teemer/Desktop/github_projects/AppDev-MVC/WebApplication1/obj/Debug/net10.0/compressed/jnw8xw3sck-{0}-rt5n34sefk-rt5n34sefk.gz
+/home/tyrone-teemer/Desktop/github_projects/AppDev-MVC/WebApplication1/obj/Debug/net10.0/compressed/pwghj04u8c-{0}-rt5n34sefk-rt5n34sefk.gz

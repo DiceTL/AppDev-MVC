@@ -1,7 +1,65 @@
 @model WebApplication1.Models.TeemerInfo
 
+@* <img src="~/assets/teemerPic.png" alt="Teemer" width="100" height="autod"/>
 <h1>@Model.Name's Profile!</h1>
 <p>Age: @Model.Age</p>
 <p>Program: @Model.Program</p>
 <p>Academic Instituition: @Model.School</p>
 <p>Let's Connect! <a href="https://www.linkedin.com/in/tyrone-louis-teemer-809383421/">Here's my link.</a></p>
+ *@
+
+<div class="main">
+    <div class="leftContainer">
+        <div class="profile">
+            <img src="~/assets/teemerPic.png" alt="Teemer's Picture"/>
+            <h1>@Model.Name</h1>
+            <p>Computer Science Student</p>
+        </div>
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus ab expedita assumenda molestiae error sit nostrum eum? Id, quibusdam non.
+        </p>
+        <div class="state">
+            <h5 class="status">Student</h3>
+            <h5 class="status">Developer</h3>
+            <h5 class="status">Philippines</h3>
+        </div>
+        <div class="links">
+            <li>
+                <ul>LinkedIn</ul>
+                <ul>Github</ul>
+                <ul>Facebook</ul>
+                <ul>Instagram</ul>
+            </li>
+        </div>
+    </div>
+    <div class="rightContainer">
+        <div class="intro">
+            <h1>Hello, I'm @Model.Name</h1>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, atque! Deserunt, velit ex? A, laboriosam. Mollitia, eaque. Minima, similique nemo!
+            </p>
+        </div>
+        <div class="interests">
+            <h2>Current Interests</h2>
+            <li>
+                <ul>Web Development</ul>
+                <ul>Game Development</ul>
+                <ul>Artificial Intelligence</ul>
+                <ul>Data Science</ul>
+                <ul>Manga & Novels</ul>
+            </li>
+        </div>
+        <div class="learning">
+            <h2>Currently Learning</h2>
+            <li>
+                <ul>C#</ul>
+                <ul>Java</ul>
+                <ul>Python</ul>
+                <ul>HTML/CSS</ul>
+                <ul>JavaScript</ul>
+                <ul>C</ul>
+                <ul>Linux</ul>
+            </li>
+        </div>
+    </div>
+</div>

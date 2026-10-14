@@ -1,3 +1,22 @@
+/* /Views/Home/TeemerProfile.cshtml.rz.scp.css */
+.main[b-ur1mc32ldu] {
+  display: flex;
+  background-color: red;
+  height: 100%;
+  width: 100%;
+}
+
+.leftContainer[b-ur1mc32ldu] {
+  background-color: blue;
+  height: 100%;
+  width: 100%;
+}
+
+.rightContainer[b-ur1mc32ldu] {
+  background-color: bisque;
+  height: 100%;
+  width: 100%;
+}
 /* /Views/Shared/_Layout.cshtml.rz.scp.css */
 /* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */

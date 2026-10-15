@@ -2,21 +2,112 @@
 .main[b-ur1mc32ldu] {
   display: flex;
   background-color: red;
-  height: 100%;
-  width: 100%;
+  height: 650px;
+  width: 1300px;
+  gap: 20px;
 }
 
 .leftContainer[b-ur1mc32ldu] {
   background-color: blue;
   height: 100%;
-  width: 100%;
+  width: 30%;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.profile[b-ur1mc32ldu] {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile img[b-ur1mc32ldu] {
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+}
+
+.profile h1[b-ur1mc32ldu]{
+  font-size: 24px;
+}
+
+.about[b-ur1mc32ldu] {
+  font-size: 16px;
+}
+
+.links[b-ur1mc32ldu] {
+  background-color: rgb(8, 107, 107);
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 0;
+}
+
+.links li[b-ur1mc32ldu] {
+  background-color: white;
+  padding: 10px 20px;
+  margin: 0;
+  border-radius: 12px;
 }
 
 .rightContainer[b-ur1mc32ldu] {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
   background-color: bisque;
   height: 100%;
-  width: 100%;
+  width: 70%;
+  padding: 20px;
 }
+
+.intro[b-ur1mc32ldu] {
+  padding: 10px;
+}
+
+.intro h1[b-ur1mc32ldu] {
+  font-size: 32px;
+}
+
+.intro p[b-ur1mc32ldu] {
+  margin-bottom: 0;
+}
+
+.interests[b-ur1mc32ldu], .learning[b-ur1mc32ldu] {
+  display: flex;
+  flex-direction: column;
+  background-color: coral;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.interests ul[b-ur1mc32ldu], .learning ul[b-ur1mc32ldu] {
+  background-color: aliceblue;
+  display: flex;
+  gap: 20px;
+  flex-direction: row;
+  list-style-type: none;
+  justify-content: start;
+  align-items: center;
+}
+
+.interests li[b-ur1mc32ldu], .learning li[b-ur1mc32ldu]{
+  font-size: 14px;
+  background-color: blue;
+  padding: 6px 12px;
+  border-radius: 14px;
+}
+/* .learning {
+  background-color: azure;
+  padding: 30px;
+}
+
+.learning ul {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+} */
 /* /Views/Shared/_Layout.cshtml.rz.scp.css */
 /* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */

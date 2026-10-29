@@ -95,5 +95,5 @@
 /home/tyrone-teemer/Desktop/github_projects/AppDev-MVC/WebApplication1/obj/Debug/net10.0/ref/WebApplication1.dll
 /home/tyrone-teemer/Desktop/github_projects/AppDev-MVC/WebApplication1/obj/Debug/net10.0/compressed/556miamfr6-{0}-lugek5hnai-lugek5hnai.gz
 /home/tyrone-teemer/Desktop/github_projects/AppDev-MVC/WebApplication1/obj/Debug/net10.0/scopedcss/Views/Home/TeemerProfile.cshtml.rz.scp.css
-/home/tyrone-teemer/Desktop/github_projects/AppDev-MVC/WebApplication1/obj/Debug/net10.0/compressed/jnw8xw3sck-{0}-21djrw2z9j-21djrw2z9j.gz
-/home/tyrone-teemer/Desktop/github_projects/AppDev-MVC/WebApplication1/obj/Debug/net10.0/compressed/pwghj04u8c-{0}-21djrw2z9j-21djrw2z9j.gz
+/home/tyrone-teemer/Desktop/github_projects/AppDev-MVC/WebApplication1/obj/Debug/net10.0/compressed/jnw8xw3sck-{0}-jfzm0fwnnc-jfzm0fwnnc.gz
+/home/tyrone-teemer/Desktop/github_projects/AppDev-MVC/WebApplication1/obj/Debug/net10.0/compressed/pwghj04u8c-{0}-jfzm0fwnnc-jfzm0fwnnc.gz

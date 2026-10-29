@@ -1,17 +1,17 @@
 .main[b-ur1mc32ldu] {
   display: flex;
-  background-color: red;
   height: 650px;
   width: 1300px;
   gap: 20px;
 }
 
 .leftContainer[b-ur1mc32ldu] {
-  background-color: blue;
+  background-color: #f4f9fd;
   height: 100%;
   width: 30%;
   padding: 20px;
   border-radius: 20px;
+  border: 2px solid #e3eefc;
 }
 
 .profile[b-ur1mc32ldu] {
@@ -36,7 +36,6 @@
 }
 
 .links[b-ur1mc32ldu] {
-  background-color: rgb(8, 107, 107);
   list-style-type: none;
   display: flex;
   flex-direction: column;
@@ -49,13 +48,13 @@
   padding: 10px 20px;
   margin: 0;
   border-radius: 12px;
+  border: 2px solid #e3eefc;
 }
 
 .rightContainer[b-ur1mc32ldu] {
   display: flex;
   flex-direction: column;
   gap: 20px;
-  background-color: bisque;
   height: 100%;
   width: 70%;
   padding: 20px;
@@ -66,6 +65,7 @@
 }
 
 .intro h1[b-ur1mc32ldu] {
+  color: #0538e3;
   font-size: 32px;
 }
 
@@ -76,13 +76,16 @@
 .interests[b-ur1mc32ldu], .learning[b-ur1mc32ldu] {
   display: flex;
   flex-direction: column;
-  background-color: coral;
+  background-color: #f4f9fd;
   padding: 10px;
-  border-radius: 5px;
+  border-radius: 12px;
+  color: #0538e3;
+  border: 2px solid #e3eefc;
 }
 
 .interests ul[b-ur1mc32ldu], .learning ul[b-ur1mc32ldu] {
   background-color: aliceblue;
+  color: black;
   display: flex;
   gap: 20px;
   flex-direction: row;
@@ -92,10 +95,11 @@
 }
 
 .interests li[b-ur1mc32ldu], .learning li[b-ur1mc32ldu]{
-  font-size: 14px;
-  background-color: blue;
+  font-size: 12px;
+  background-color: white;
   padding: 6px 12px;
   border-radius: 14px;
+  border: 2px solid #e3eefc;
 }
 /* .learning {
   background-color: azure;
